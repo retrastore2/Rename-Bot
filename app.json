@@ -1,6 +1,6 @@
 {
-    "name": "Telegram Files Rename Bot",
-    "description": "A Very Simple Telegram Files Rename Bot by @AbirHasan2005",
+    "name": "Telegram Files Rename Profesor Bot",
+    "description": "A Very Simple Telegram Files Rename Bot by @zosman_official",
     "keywords": [
         "telegram",
         "files",
@@ -51,7 +51,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
